@@ -11,28 +11,51 @@ namespace OOP.ConsoleExample
     {
         static void Main(string[] args)
         {
-            //Console class with satatic method 
-            Console.WriteLine("Hello World!");
 
-            //Reference to class Animal in AudioManager
-            Animal animal = new Animal();
-            //Invocation of the animal class
-            animal.AnimalSound();
+            while (true)
+            {
+                //Console class with satatic method 
+                Console.WriteLine("Type the animal!");
 
-            //Access to the class
-            Dog dog = new Dog();
+                // Request a string
+                //ToLower convert uppercase to lowercase
+                String animalType = Console.ReadLine().ToLower();
 
-            //the class inherit from the animal class
-            dog.AnimalSound();
+                Animal animal = null;
 
-            Elephant elephant = new Elephant();
-            elephant.AnimalSound();
 
-            Cat cat= new Cat();
-            cat.AnimalSound();
+                switch (animalType)
+                {
+                    case "cat":
+                        animal = new Cat();
+                        break;
+                    case "cow":
+                        animal = new Cow();
+                        break;
+                    case "dog":
+                        animal = new Dog();
+                        break;
+                    case "elephant":
+                        animal = new Elephant();
+                        break;
+                    case "lion":
+                        animal = new Lion();
+                        break;
+                    case "pig":
+                        animal = new Pig();
+                        break;
+                    default:
+                        Console.WriteLine("Animal not found!");
+                        System.Threading.Thread.Sleep(2000);
+                        break;
+                }
 
-            //Wait a key to continue the program
-            Console.ReadKey();
+                if (animal != null)
+                {
+                    animal.AnimalSound();
+                }
+            }
+            
         }
     }
 }
