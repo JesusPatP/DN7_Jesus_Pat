@@ -1,0 +1,12 @@
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\T1\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\T1\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.AssemblyReference.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\T1\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\AudioManager\bin\Debug\AudioManager.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.AssemblyReference.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.csproj.CoreCompileInputs.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\AudioManager\obj\Debug\AudioManager.pdb
