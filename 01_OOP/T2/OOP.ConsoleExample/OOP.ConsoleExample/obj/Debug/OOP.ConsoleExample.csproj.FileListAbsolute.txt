@@ -20,3 +20,16 @@ C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExampl
 C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.csproj.CopyComplete
 C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.exe
 C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\obj\Debug\OOP.ConsoleExample.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\Resources\POO_AnimalSounds_cat.wav
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\Resources\POO_AnimalSounds_cow.wav
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\Resources\POO_AnimalSounds_dog.wav
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\Resources\POO_AnimalSounds_elephant.wav
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\Resources\POO_AnimalSounds_lion.wav
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\Resources\POO_AnimalSounds_pig.wav
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\NAudio.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\NAudio.Core.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\NAudio.WinMM.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\NAudio.Wasapi.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\NAudio.xml
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\T2\OOP.ConsoleExample\OOP.ConsoleExample\bin\Debug\Microsoft.Win32.Registry.xml

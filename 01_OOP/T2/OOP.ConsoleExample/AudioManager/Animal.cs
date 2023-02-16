@@ -8,7 +8,8 @@ namespace AudioManager
 {
     public class Animal
     {
-        public void AnimalSound()
+        //virtual is the specific word to allow the child class to modify the parent class
+        public virtual void AnimalSound()
         {
             Console.WriteLine("I'm an animal");
         }

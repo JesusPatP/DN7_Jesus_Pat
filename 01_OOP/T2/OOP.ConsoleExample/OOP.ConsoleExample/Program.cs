@@ -20,10 +20,16 @@ namespace OOP.ConsoleExample
             animal.AnimalSound();
 
             //Access to the class
-            Elephant elephant = new Elephant();
+            Dog dog = new Dog();
 
             //the class inherit from the animal class
+            dog.AnimalSound();
+
+            Elephant elephant = new Elephant();
             elephant.AnimalSound();
+
+            Cat cat= new Cat();
+            cat.AnimalSound();
 
             //Wait a key to continue the program
             Console.ReadKey();
