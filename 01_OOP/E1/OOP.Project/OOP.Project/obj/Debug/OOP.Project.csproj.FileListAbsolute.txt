@@ -1,0 +1,14 @@
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\bin\Debug\OOP.Project.exe.config
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\bin\Debug\OOP.Project.exe
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\bin\Debug\OOP.Project.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\bin\Debug\AudioManager.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\bin\Debug\AudioManager.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\obj\Debug\OOP.Project.csproj.AssemblyReference.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\obj\Debug\OOP.Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\obj\Debug\OOP.Project.csproj.CoreCompileInputs.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\obj\Debug\OOP.Project.csproj.CopyComplete
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\obj\Debug\OOP.Project.exe
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\obj\Debug\OOP.Project.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\bin\Debug\Resources\Car.wav
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\bin\Debug\Resources\Train.wav
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\01_OOP\E1\OOP.Project\OOP.Project\bin\Debug\Resources\Truck.wav
