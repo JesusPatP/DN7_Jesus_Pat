@@ -1,6 +1,17 @@
 var builder = WebApplication.CreateBuilder(args);
+
+//method services
+builder.Services.AddControllersWithViews();
+
 var app = builder.Build();
 
-app.MapGet("/", () => "Hello World!");
+//
+app.UseStaticFiles();
+app.UseRouting();
+app.UseHttpsRedirection();
+app.UseAuthorization();
+
+//Configuring a conventional route
+app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

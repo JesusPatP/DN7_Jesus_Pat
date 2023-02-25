@@ -5,7 +5,7 @@ string text = "This is a string";
 
 int age = 35;
 
-DateTime now= DateTime.Now;
+DateTime now = DateTime.Now;
 
 double amount = 0;
 
@@ -18,14 +18,19 @@ string string3 = string.Format("The age is {0}, the time is {1}, and the amount 
 string string4 = $"The age is {age}, the time is {now}, and the amount is {amount}";
 
 char sampleChar = 'C';
+
+//A String is an Array of charts
 char[] arrayChar = string4.ToCharArray();
 
 
-for(int i = 0;i < string4.Length; i++)
-{
-    Console.WriteLine(string4[i]);
-}
+//Cast the value to have the exact amount
+amount = (double)10 / (double)3;
 
-Console.WriteLine(sampleChar);
+DateTime dateTime = new DateTime(2000,1,1);
+
+TimeSpan timeStamp1 = now - dateTime;
+//var otherText = "this is a text";
+
+Console.WriteLine(timeStamp1.TotalMilliseconds);
 
 Console.ReadKey();
