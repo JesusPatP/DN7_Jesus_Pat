@@ -12,7 +12,7 @@ build_property.RootNamespace = DataTypes.Web
 build_property.ProjectDir = C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\02_WebDevelopment\T4\DataTypes\DataTypes.Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\02_WebDevelopment\T4\DataTypes\DataTypes.Web
 build_property._RazorSourceGeneratorDebug = 
 

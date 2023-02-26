@@ -3,6 +3,10 @@ var builder = WebApplication.CreateBuilder(args);
 //method services
 builder.Services.AddControllersWithViews();
 
+//
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
+
+
 var app = builder.Build();
 
 //

@@ -33,4 +33,12 @@ TimeSpan timeStamp1 = now - dateTime;
 
 Console.WriteLine(timeStamp1.TotalMilliseconds);
 
+string test = "15";
+
+string booleanValue = "True";
+
+bool isTrue = bool.Parse( booleanValue);
+
+age = int.Parse(test);
+
 Console.ReadKey();
