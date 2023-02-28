@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AudioManager"
   ],
+  "SelectedNode": "\\AudioManager\\Cat.cs",
   "PreviewInSolutionExplorer": false
 }
