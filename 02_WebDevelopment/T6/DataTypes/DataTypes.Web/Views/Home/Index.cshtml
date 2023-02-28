@@ -1,0 +1,131 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<html>
+<head>
+	<title>JavaScript DataTypes</title>
+
+	<style>
+
+		button {
+			padding: 10px;
+		}
+
+		.redButton {
+			background: #FD8473;
+		}
+
+		.greenButton {
+			background: #ACEAAC;
+		}
+
+		/*Inicia bideo styles*/
+    * {
+      margin: 0; 
+      padding: 0;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    #container {
+      overflow: hidden;
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+    }
+
+    #background_video {
+      position: absolute;
+
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%);
+
+      object-fit: cover;
+      height: 100%; width: 100%;
+    }
+
+    #video_cover {
+      position: absolute;
+
+      width: 100%; height: 100%;
+
+      background: url('/lib/bideo/video_cover.jpeg') no-repeat;
+      background-size: cover;
+      background-position: center;
+    }
+
+    body {
+      text-align: center;
+      font-family: 'proxima-nova', Helvetica;
+    }
+
+    #container {
+      height: 100%;
+    }
+
+    #overlay {
+      position: absolute;
+      top: 0; right: 0; left: 0; bottom: 0;
+      background: rgba(0,0,0,0.5);
+    }
+
+    #main_content {
+      z-index: 2;
+      position: relative;
+      display: inline-block;
+
+      /* Vertical center */
+      top: 50%;
+      transform: translateY(-50%);
+    }
+
+    /*Termina bideo styles*/
+
+	</style>
+
+</head>
+
+<body>
+
+
+	<div id="container">
+
+        <video id="background_video" loop muted></video>
+        <div id="video_cover"></div>
+        <div id="overlay"></div>
+
+		<section id="main_content">
+			<button id="button1" name="testButton" class="btn greenButton">Toast!</button>
+			<button class="btn greenButton" name="testButton2">Click me!</button>
+			<button class="btn greenButton" name="testButton3">Click me!</button>
+			<button class="btn greenButton" name="testButton4">Click me!</button>
+			<button class="btn greenButton" name="testButton5">Click me!</button>
+			<button class="btn greenButton" name="testButton6">Click me!</button>
+
+			<table id="sampleTable">
+				<thead>
+					<tr>
+						<td>
+							Button Name
+						</td>
+						<td>
+							Clicked On
+						</td>
+					</tr>
+				</thead>
+			</table>
+		</section>
+	</div>
+
+	<script src="~/lib/bideo/bideo.js"></script>
+	<script src="~/lib/moment.js"></script>
+	<script src="~/lib/toast.min.js"></script>
+	<script src="~/datatypes.js"></script>
+</body>
+</html>

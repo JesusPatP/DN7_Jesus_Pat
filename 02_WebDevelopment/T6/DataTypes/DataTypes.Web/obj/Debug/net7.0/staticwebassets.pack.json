@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\T6\\DataTypes\\DataTypes.Web\\wwwroot\\dataTypes.js",
+      "PackagePath": "staticwebassets\\dataTypes.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\T6\\DataTypes\\DataTypes.Web\\wwwroot\\lib\\bideo\\bideo.js",
+      "PackagePath": "staticwebassets\\lib\\bideo\\bideo.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\T6\\DataTypes\\DataTypes.Web\\wwwroot\\lib\\bideo\\night.mp4",
+      "PackagePath": "staticwebassets\\lib\\bideo\\night.mp4"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\T6\\DataTypes\\DataTypes.Web\\wwwroot\\lib\\bideo\\video_cover.jpeg",
+      "PackagePath": "staticwebassets\\lib\\bideo\\video_cover.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\T6\\DataTypes\\DataTypes.Web\\wwwroot\\lib\\moment.js",
+      "PackagePath": "staticwebassets\\lib\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\T6\\DataTypes\\DataTypes.Web\\wwwroot\\lib\\toast.min.js",
+      "PackagePath": "staticwebassets\\lib\\toast.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.DataTypes.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.DataTypes.Web.props",
+      "PackagePath": "build\\DataTypes.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.DataTypes.Web.props",
+      "PackagePath": "buildMultiTargeting\\DataTypes.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.DataTypes.Web.props",
+      "PackagePath": "buildTransitive\\DataTypes.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
