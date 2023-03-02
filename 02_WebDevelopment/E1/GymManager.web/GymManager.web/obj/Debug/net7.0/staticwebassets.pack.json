@@ -181,6 +181,10 @@
       "PackagePath": "staticwebassets\\Images\\LogoFundacion.png"
     },
     {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E1\\GymManager.web\\GymManager.web\\wwwroot\\Images\\logoGym.jpg",
+      "PackagePath": "staticwebassets\\Images\\logoGym.jpg"
+    },
+    {
       "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E1\\GymManager.web\\GymManager.web\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
