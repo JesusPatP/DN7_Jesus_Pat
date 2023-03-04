@@ -13,13 +13,6 @@ var customerList = [
     { Name: "Zulema", creationDate: Date.parse("07/09/2014 05:42:18 pm") }
 ];
 
-var list = [
-    { date: '12/1/2011', reading: 3, id: 20055 },
-    { date: '13/1/2011', reading: 5, id: 20053 },
-    { date: '14/1/2011', reading: 6, id: 45652 }
-];
-alert(list[1].date);
-
 
 var ul = "<ul>";
 

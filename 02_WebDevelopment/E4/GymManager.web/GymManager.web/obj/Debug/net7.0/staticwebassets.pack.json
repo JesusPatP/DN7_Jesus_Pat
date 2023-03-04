@@ -1,0 +1,217 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Images\\LogoFundacion.png",
+      "PackagePath": "staticwebassets\\Images\\LogoFundacion.png"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\Images\\logoGym.jpg",
+      "PackagePath": "staticwebassets\\Images\\logoGym.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\lib\\moment.js",
+      "PackagePath": "staticwebassets\\lib\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\02_WebDevelopment\\E4\\GymManager.web\\GymManager.web\\wwwroot\\members.js",
+      "PackagePath": "staticwebassets\\members.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GymManager.web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GymManager.web.props",
+      "PackagePath": "build\\GymManager.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GymManager.web.props",
+      "PackagePath": "buildMultiTargeting\\GymManager.web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GymManager.web.props",
+      "PackagePath": "buildTransitive\\GymManager.web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
