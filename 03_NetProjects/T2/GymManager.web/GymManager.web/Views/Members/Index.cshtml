@@ -1,0 +1,20 @@
+﻿@*Directiva fuertemente tipada*@
+@model GymManager.web.Models.MemberListViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section HeaderRight{
+    <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+    </form>
+}
+
+<div class="container">
+    <h1 class="mt-5">Members</h1>
+    <p>New members of week: @Model.NewMembersCount</p>
+
+    @await Html.PartialAsync("~/Views/Shared/_MemberList.cshtml", Model.Members)
+</div>
+
