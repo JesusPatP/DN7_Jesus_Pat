@@ -1,0 +1,70 @@
+﻿@model GymManager.Core.Members.Member
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Head{
+  
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+    <link href="~/lib/jqueryui/jquery-ui.min.css" rel="stylesheet" />
+
+    <link href="~/lib/jqueryui/jquery-ui.structure.min.css" rel="stylesheet" />
+
+    <link href="~/lib/jqueryui/jquery-ui.theme.min.css" rel="stylesheet" />
+
+}
+
+@section Scripts{
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
+    <script src="~/lib/jqueryui/jquery-ui.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script src="~/views/members/create.js"></script>
+
+}
+
+<div class="container">
+    <h3 class="mt-5">Member registration</h3>
+
+    
+    <form asp-action = "Create">
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">First Name</label>
+            <input type="text" class="form-control" asp-for="Name">
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="LastName" class="form-label">Last Name</label>
+            <input type="text" class="form-control" asp-for="LastName">
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="BirthDay" class="form-label">Date of birth</label>
+            <input type="text" class="form-control" asp-for="BirthDay">
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CityId" class="form-label">City</label>
+            <select class="form-control" asp-for="CityId">
+                <option value="1">Alabama</option>
+                <option value="2">Alaska</option>
+                <option value="3">Arizona</option>
+                <option value="4">Arkansas</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email address</label>
+            <input type="email" class="form-control" asp-for="Email">
+        </div>
+
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" asp-for="AllowNewsletter">
+            <label class="form-check-label"asp-for="AllowNewsletter">Suscribe to our newsletter?</label>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</div>

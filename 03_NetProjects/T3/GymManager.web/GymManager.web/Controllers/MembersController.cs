@@ -20,6 +20,19 @@ namespace GymManager.web.Controllers
             return View(viewModel);
         }
 
+        public IActionResult Create()
+        {
+
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(Member member)
+        {
+            _membersAppService.AddMember(member);
+            return RedirectToAction("Index");
+        }
+
         public IActionResult Test()
         {
             return View();

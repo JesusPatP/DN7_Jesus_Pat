@@ -9,7 +9,9 @@ namespace GymManager.ApplicationServices.Members
 {
     public interface IMembersAppService
     {
-        List<Member> GetMembers();  
+        List<Member> GetMembers();
+
+        int AddMember(Member member);
 
     }
 }
