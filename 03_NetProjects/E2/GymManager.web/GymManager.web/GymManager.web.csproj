@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\GymManager.ApplicationServices\GymManager.ApplicationServices.csproj" />
     <ProjectReference Include="..\GymManager.Core\GymManager.Core.csproj" />
   </ItemGroup>

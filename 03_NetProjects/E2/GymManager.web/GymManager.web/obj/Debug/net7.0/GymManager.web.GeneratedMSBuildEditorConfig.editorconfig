@@ -32,6 +32,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/sanho/Documents/PuntoSingular/DN7_Jesus_Pat/03_NetProjects/E2/GymManager.web/GymManager.web/Views/MembershipTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanho/Documents/PuntoSingular/DN7_Jesus_Pat/03_NetProjects/E2/GymManager.web/GymManager.web/Views/MembershipTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanho/Documents/PuntoSingular/DN7_Jesus_Pat/03_NetProjects/E2/GymManager.web/GymManager.web/Views/MembershipTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFR5cGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/sanho/Documents/PuntoSingular/DN7_Jesus_Pat/03_NetProjects/E2/GymManager.web/GymManager.web/Views/Members/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,6 +66,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/sanho/Documents/PuntoSingular/DN7_Jesus_Pat/03_NetProjects/E2/GymManager.web/GymManager.web/Views/Shared/_MemberList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW1iZXJMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sanho/Documents/PuntoSingular/DN7_Jesus_Pat/03_NetProjects/E2/GymManager.web/GymManager.web/Views/Shared/_MembershipTypesList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW1iZXJzaGlwVHlwZXNMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sanho/Documents/PuntoSingular/DN7_Jesus_Pat/03_NetProjects/E2/GymManager.web/GymManager.web/Views/Shared/_SessionUser.cshtml]

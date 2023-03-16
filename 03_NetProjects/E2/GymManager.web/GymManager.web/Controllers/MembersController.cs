@@ -8,6 +8,7 @@ namespace GymManager.web.Controllers
     public class MembersController : Controller
     {
         private readonly IMembersAppService _membersAppService;
+
         public MembersController(IMembersAppService membersAppService) {
             _membersAppService = membersAppService;
         }

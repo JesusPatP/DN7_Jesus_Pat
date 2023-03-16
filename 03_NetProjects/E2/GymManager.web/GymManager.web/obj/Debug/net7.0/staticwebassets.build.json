@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Km8Nw2z97IW+7iq4JdGdW9zxYUNqFstORgjRvoyEN3E=",
+  "Hash": "LmXn9GUoRBDF74CNdybWTp7cqtb9eKPsC0QqSRNCDkI=",
   "Source": "GymManager.web",
   "BasePath": "_content/GymManager.web",
   "Mode": "Default",
@@ -1035,6 +1035,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Views\\Members\\Create.js"
+    },
+    {
+      "Identity": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\03_NetProjects\\E2\\GymManager.web\\GymManager.web\\wwwroot\\Views\\MembershipTypes\\Create.js",
+      "SourceId": "GymManager.web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\03_NetProjects\\E2\\GymManager.web\\GymManager.web\\wwwroot\\",
+      "BasePath": "_content/GymManager.web",
+      "RelativePath": "Views/MembershipTypes/Create.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Views\\MembershipTypes\\Create.js"
     }
   ]
 }

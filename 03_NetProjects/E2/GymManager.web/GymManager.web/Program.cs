@@ -1,4 +1,5 @@
 using GymManager.ApplicationServices.Members;
+using GymManager.ApplicationServices.MembershipTypes;
 using System.Globalization;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +10,10 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
 
 //builder.Services.AddSingleton<IMembersAppService, MembersAppService>();
+//builder.Services.AddSingleton<IMembershipTypesAppService, MembershipTypesAppService>();
+
 builder.Services.AddTransient<IMembersAppService, MembersAppService>();
+builder.Services.AddTransient<IMembershipTypesAppService, MembershipTypesAppService>();
 //builder.Services.AddScoped<IMembersAppService, MembersAppService>();
 
 var app = builder.Build();

@@ -189,6 +189,10 @@
       "PackagePath": "staticwebassets\\Views\\Members\\Create.js"
     },
     {
+      "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\03_NetProjects\\E2\\GymManager.web\\GymManager.web\\wwwroot\\Views\\MembershipTypes\\Create.js",
+      "PackagePath": "staticwebassets\\Views\\MembershipTypes\\Create.js"
+    },
+    {
       "Id": "C:\\Users\\sanho\\Documents\\PuntoSingular\\DN7_Jesus_Pat\\03_NetProjects\\E2\\GymManager.web\\GymManager.web\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
