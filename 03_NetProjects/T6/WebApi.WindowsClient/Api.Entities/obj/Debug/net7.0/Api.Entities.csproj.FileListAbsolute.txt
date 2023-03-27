@@ -1,0 +1,12 @@
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\bin\Debug\net7.0\Api.Entities.deps.json
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\bin\Debug\net7.0\Api.Entities.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\bin\Debug\net7.0\Api.Entities.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\obj\Debug\net7.0\Api.Entities.csproj.AssemblyReference.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\obj\Debug\net7.0\Api.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\obj\Debug\net7.0\Api.Entities.AssemblyInfoInputs.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\obj\Debug\net7.0\Api.Entities.AssemblyInfo.cs
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\obj\Debug\net7.0\Api.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\obj\Debug\net7.0\Api.Entities.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\obj\Debug\net7.0\refint\Api.Entities.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\obj\Debug\net7.0\Api.Entities.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T6\WebApi.WindowsClient\Api.Entities\obj\Debug\net7.0\ref\Api.Entities.dll
