@@ -1,0 +1,14 @@
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\bin\Debug\net7.0\GymManager.DataAccess.deps.json
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\bin\Debug\net7.0\GymManager.DataAccess.runtimeconfig.json
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\bin\Debug\net7.0\GymManager.DataAccess.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\bin\Debug\net7.0\GymManager.DataAccess.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\GymManager.DataAccess.csproj.AssemblyReference.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\GymManager.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\GymManager.DataAccess.AssemblyInfoInputs.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\GymManager.DataAccess.AssemblyInfo.cs
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\GymManager.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\GymManager.DataAccess.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\refint\GymManager.DataAccess.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\GymManager.DataAccess.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\GymManager.DataAccess.genruntimeconfig.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\03_NetProjects\T7\GymManager.web\GymManager.DataAccess\obj\Debug\net7.0\ref\GymManager.DataAccess.dll
