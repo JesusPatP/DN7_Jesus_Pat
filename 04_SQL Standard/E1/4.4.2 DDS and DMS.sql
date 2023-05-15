@@ -83,11 +83,11 @@ INSERT INTO `gym_manager`.`inventory` (`id_inventory`,`amount`,`product_types_id
 */
 /*insert sales*/
 /*
-INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`) VALUES ("1","2023-05-07","1");
-INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`) VALUES ("2","2023-05-07","2");
-INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`) VALUES ("3","2023-05-07","3");
-INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`) VALUES ("4","2023-05-07","4");
-INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`) VALUES ("5","2023-05-07","5");
+INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`,`id_user_sale`) VALUES ("1","2023-05-07","1","1");
+INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`,`id_user_sale`) VALUES ("2","2023-05-07","2","2");
+INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`,`id_user_sale`) VALUES ("3","2023-05-07","3","1");
+INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`,`id_user_sale`) VALUES ("4","2023-05-07","4","4");
+INSERT INTO `gym_manager`.`sales` (`id_sale`,`sale_date`,`product_types_id_product_type`,`id_user_sale`) VALUES ("5","2023-05-07","5","3");
 */
 
 /*Crear una vista que devuelva el listado de usuarios con los roles que tiene asignados.*/
