@@ -1,0 +1,15 @@
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\bin\Debug\net7.0\Linq.Examples.exe
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\bin\Debug\net7.0\Linq.Examples.deps.json
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\bin\Debug\net7.0\Linq.Examples.runtimeconfig.json
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\bin\Debug\net7.0\Linq.Examples.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\bin\Debug\net7.0\Linq.Examples.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\Linq.Examples.csproj.AssemblyReference.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\Linq.Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\Linq.Examples.AssemblyInfoInputs.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\Linq.Examples.AssemblyInfo.cs
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\Linq.Examples.csproj.CoreCompileInputs.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\Linq.Examples.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\refint\Linq.Examples.dll
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\Linq.Examples.pdb
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\Linq.Examples.genruntimeconfig.cache
+C:\Users\sanho\Documents\PuntoSingular\DN7_Jesus_Pat\06_Net Projects 2\T1\Linq.Examples\Linq.Examples\obj\Debug\net7.0\ref\Linq.Examples.dll
